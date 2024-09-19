@@ -1,3 +1,6 @@
+import CVEditor from "./components/CVEditor";
+import styles from "./page.module.css";
+
 export default function Home() {
   return (
     <div className="page">
@@ -5,6 +8,7 @@ export default function Home() {
         <div className="title">
           <h1>James Cooper</h1>
         </div>
+        <CVEditor />
       </main>
     </div>
   );

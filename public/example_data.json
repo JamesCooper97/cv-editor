@@ -1,0 +1,24 @@
+{
+    "username": "JamesCooper97",
+    "cv_content":[
+        {
+            "id": 1,
+            "type": "basic",
+            "title": "Education",
+            "content": "BSc Computer Science, University XYZ"
+        },
+        {
+            "id": 2,
+            "type": "skills",
+            "skills": ["JavaScript", "React", "Node.js"]
+        },
+        {
+            "id": 3,
+            "type": "certifications",
+            "certifications": [
+                { "name": "AWS Certified Solutions Architect", "date": "2023" },
+                { "name": "Certified Kubernetes Administrator", "date": "2022" }
+            ]
+        }
+    ]
+}
